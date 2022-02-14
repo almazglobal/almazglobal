@@ -1,4 +1,3 @@
-# Mazurov Alexander
 _________________
 
 ### Contact Info:
@@ -7,6 +6,7 @@ _________________
     E-mail: almazlocal@gmail.com
     GitHub: almazglobal
     Telegram: @almazglobal
+    linkedin: https://www.linkedin.com/in/alexander-mazurov-310942231/
 
 ### About Me
 I started my acquaintance with frontend technologies by studying HTML Academy courses.
