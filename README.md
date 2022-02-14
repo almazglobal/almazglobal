@@ -6,6 +6,7 @@ _________________
     Phone: +7(927)704-32-25
     E-mail: almazlocal@gmail.com
     GitHub: almazglobal
+    Telegram: @almazglobal
 
 ### About Me
 I started my acquaintance with frontend technologies by studying HTML Academy courses.
