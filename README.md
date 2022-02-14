@@ -1,12 +1,14 @@
 _________________
 
 ### Contact Info:
+    
     Address: Russia, Samara city
     Phone: +7(927)704-32-25
     E-mail: almazlocal@gmail.com
     GitHub: almazglobal
     Telegram: @almazglobal
-    linkedin: [https://www.linkedin.com/in/alexander-mazurov-310942231](https://www.linkedin.com/in/alexander-mazurov-310942231)
+    
+Linkedin:   [https://www.linkedin.com/in/alexander-mazurov-310942231](https://www.linkedin.com/in/alexander-mazurov-310942231)
 
 ### About Me
 I started my acquaintance with frontend technologies by studying HTML Academy courses.
